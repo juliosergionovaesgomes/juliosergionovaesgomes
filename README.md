@@ -60,7 +60,7 @@
 
 ## Banco de dados 
 
-#### Relacioanis
+#### Relacionais
 <div style="display:inline_block">
 <img align="center" alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
