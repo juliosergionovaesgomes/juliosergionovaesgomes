@@ -25,9 +25,10 @@
 <img  align="center"   alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"   />
 <img  align="center"   alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo"   />
 <img  align="center"   alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"   />
-
 </div>
+
 #### Ferrametas  
+
 <div style="display:inline_block">
 <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
